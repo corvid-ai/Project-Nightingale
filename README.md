@@ -12,4 +12,5 @@ The project will move through three  main phases:
 + The data quality phase (Phase II) involves performing parity and sanity checks on the data and corresponding documentation to ensure conformity to the DST.
 + Finally, all datasets that passed through the quality checks will be ingested to a cloud repository for public usage.
 
-TextAnalysis API provides customized Text Analysis,Text Mining and Text Processing Services like Text Summarization, Language Detection, Text Classification, Sentiment Analysis, Word Tokenize, Part-of-Speech(POS) Tagging, Named Entity Recognition(NER), Stemmer, Lemmatizer, Chunker, Parser, Key Phrase Extraction(Noun Phrase Extraction), Sentence Segmentation(Sentence Boundary Detection), Grammar Checker and other Text Analysis Tasks. It stands on the giant shoulders of NLP Tools, such as NLTK, TextBlob, Pattern, MBSP and etc. You can test the services on our demo website TextAnalysisOnline and use the TextAnalysis API on Mashape. 
+
+Project webpage is currently under development 
